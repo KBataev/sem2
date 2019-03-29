@@ -1,11 +1,3 @@
-//
-//  main.c
-//  botya_13
-//
-//  Created by Влад on 3/22/19.
-//  Copyright © 2019 Влад. All rights reserved.
-//
-
 #include <stdio.h>
 
 void ShellSort(int *mass, int n)
